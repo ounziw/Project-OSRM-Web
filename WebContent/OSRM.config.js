@@ -52,7 +52,8 @@ OSRM.DEFAULTS = {
 		{encoding:"it", name:"Italiano"},
 		{encoding:"lv", name:"Latviešu"},
 		{encoding:"pl", name:"Polski", culture:"en-US"},
-		{encoding:"ru", name:"Русский"}
+		{encoding:"ru", name:"Русский"},
+		{encoding:"bg", name:"български"}
 	],
 		
 	TILE_SERVERS: [
